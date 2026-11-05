@@ -10,3 +10,5 @@ Ideally this will automate as much of the process as possible and minimize where
 ## How to use
 Create watchbill then use code to make a new one. :)
 Edit added by Daniel Arendt
+
+> System.out.println("Hello world!");
